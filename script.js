@@ -83,7 +83,6 @@ function third() {
     for (counter = 0; counter <= size - 1; counter++) {
         numbers[counter] = Math.floor(Math.random() * 100);
     }
-    alert(numbers)
     counter = 0;
     var stop;
     
